@@ -3,7 +3,10 @@
   "name": "funz-workflows",
   "description": "PR and code review workflow commands for the funz project (Python).",
   "version": "0.1.0",
-  "author": "Ambika Technology",
+  "author": {
+    "name": "Ambika Technology",
+    "email": "jinesh.paloor@ambikatechnology.com"
+  },
   "license": "MIT",
   "tags": ["developer", "code-review", "pull-request", "python", "workflow"]
 }
