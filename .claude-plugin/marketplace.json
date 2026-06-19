@@ -1,0 +1,19 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "ambika-marketplace",
+  "description": "Internal Claude Code plugins for Ambika Technology.",
+  "owner": {
+    "name": "Ambika Technology",
+    "email": "jinesh.paloor@ambikatechnology.com"
+  },
+  "plugins": [
+    {
+      "name": "funz-workflows",
+      "description": "PR and code review workflow commands for the funz project (Python).",
+      "version": "0.1.0",
+      "source": "./funz-workflows",
+      "category": "developer-tools",
+      "keywords": ["code-review", "pull-request", "python", "workflow"]
+    }
+  ]
+}
